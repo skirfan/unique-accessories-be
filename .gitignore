@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# build output
+/dist
+
+# env files
+.env
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+pnpm-debug.log*
+
+# misc
+.DS_Store
+*.tsbuildinfo
+
+# Managed product images (local development only)
+uploads/

@@ -1,0 +1,1199 @@
+[
+  {
+    "id": "prod-iphone15pro-cover",
+    "slug": "iphone-15-pro-shockproof-cover",
+    "name": "Aegis Shockproof Cover for iPhone 15 Pro",
+    "subcategoryId": "sub-covers",
+    "subcategorySlug": "phone-covers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Military-grade drop protection in a slim profile.",
+    "description": "The Aegis cover wraps your iPhone 15 Pro in a precision-molded shell that survives drops up to 2.4m without adding bulk. Raised bezels protect the camera and screen, while a soft-touch grip keeps it steady in hand.",
+    "features": [
+      "Certified 2.4m drop protection",
+      "Raised camera and screen bezels",
+      "Soft-touch, anti-slip grip",
+      "Wireless charging compatible",
+      "Precision cutouts for all ports and buttons"
+    ],
+    "rating": 4.7,
+    "reviewCount": 214,
+    "badge": "Bestseller",
+    "visual": { "icon": "ShieldCheck", "theme": "navy" },
+    "variants": [
+      { "id": "var-1a", "sku": "UA-COV-I15P-BLK", "color": "Midnight Black", "colorHex": "#111827", "price": 799, "compareAtPrice": 999, "stock": 42 },
+      { "id": "var-1b", "sku": "UA-COV-I15P-NVY", "color": "Navy Blue", "colorHex": "#1E2F5C", "price": 799, "compareAtPrice": 999, "stock": 30 },
+      { "id": "var-1c", "sku": "UA-COV-I15P-CLR", "color": "Clear", "colorHex": "#E5E7EB", "price": 699, "compareAtPrice": 899, "stock": 18 }
+    ],
+    "compatibleDeviceModelIds": ["dm-iphone-15-pro"],
+    "reviews": [
+      { "id": "rev-1a", "author": "Aarav M.", "rating": 5, "title": "Saved my phone twice already", "comment": "Dropped it on tile and on concrete, not a scratch on the phone. Buttons still feel clicky.", "date": "2026-06-12", "verified": false },
+      { "id": "rev-1b", "author": "Nisha P.", "rating": 4, "title": "Great fit, slightly thick", "comment": "Fits perfectly and camera bump is fully protected. A touch bulkier than my old case but worth it.", "date": "2026-05-30", "verified": false }
+    ]
+  },
+  {
+    "id": "prod-s24ultra-cover",
+    "slug": "galaxy-s24-ultra-clear-armor-cover",
+    "name": "Clear Armor Cover for Galaxy S24 Ultra",
+    "subcategoryId": "sub-covers",
+    "subcategorySlug": "phone-covers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Show off your phone's design without compromising protection.",
+    "description": "A crystal-clear polycarbonate back paired with a shock-absorbing TPU frame. Anti-yellowing coating keeps it looking new for longer, and reinforced corners guard against everyday drops.",
+    "features": [
+      "Anti-yellowing crystal-clear back",
+      "Reinforced corner air cushions",
+      "S Pen compatible cutout",
+      "Raised lip for screen protection",
+      "Slim, pocket-friendly profile"
+    ],
+    "rating": 4.5,
+    "reviewCount": 96,
+    "badge": "New",
+    "visual": { "icon": "ShieldCheck", "theme": "slate" },
+    "variants": [
+      { "id": "var-2a", "sku": "UA-COV-S24U-CLR", "color": "Clear", "colorHex": "#E5E7EB", "price": 649, "stock": 55 },
+      { "id": "var-2b", "sku": "UA-COV-S24U-BLK", "color": "Smoke Black", "colorHex": "#1F2937", "price": 699, "stock": 27 }
+    ],
+    "compatibleDeviceModelIds": ["dm-s24-ultra"],
+    "reviews": []
+  },
+  {
+    "id": "prod-airbuds-pro",
+    "slug": "airpods-pro-style-wireless-earbuds",
+    "name": "Pulse Air Wireless Earbuds",
+    "subcategoryId": "sub-earphones",
+    "subcategorySlug": "earphones",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Active noise cancellation with 30-hour total battery life.",
+    "description": "Pulse Air pairs deep, balanced sound with hybrid active noise cancellation. A compact charging case gives you six extra charges on the go, and touch controls put playback, calls and ANC one tap away.",
+    "features": [
+      "Hybrid active noise cancellation",
+      "6h earbud + 24h case battery life",
+      "IPX5 sweat and splash resistant",
+      "Touch controls with voice assistant",
+      "Bluetooth 5.3, universal fit"
+    ],
+    "rating": 4.6,
+    "reviewCount": 341,
+    "badge": "Bestseller",
+    "visual": { "icon": "Headphones", "theme": "orange" },
+    "variants": [
+      { "id": "var-3a", "sku": "UA-EAR-PLSA-BLK", "color": "Jet Black", "colorHex": "#111827", "price": 2499, "compareAtPrice": 3199, "stock": 60 },
+      { "id": "var-3b", "sku": "UA-EAR-PLSA-WHT", "color": "Pearl White", "colorHex": "#F9FAFB", "price": 2499, "compareAtPrice": 3199, "stock": 48 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": [
+      { "id": "rev-3a", "author": "Rohit S.", "rating": 5, "title": "ANC actually works", "comment": "Used these on a flight, cut out most of the engine noise. Call quality is clear too.", "date": "2026-07-02", "verified": false },
+      { "id": "rev-3b", "author": "Meera K.", "rating": 4, "title": "Great value", "comment": "Sound is punchy, case fits in the smallest pocket. Wish the touch controls were a bit less sensitive.", "date": "2026-06-18", "verified": false }
+    ]
+  },
+  {
+    "id": "prod-bassline-headphones",
+    "slug": "bassline-over-ear-headphones",
+    "name": "Bassline Over-Ear Headphones",
+    "subcategoryId": "sub-earphones",
+    "subcategorySlug": "earphones",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "40mm drivers and plush ear cushions for all-day listening.",
+    "description": "Bassline delivers rich, room-filling sound from 40mm dynamic drivers, wrapped in memory-foam ear cushions built for long sessions. Foldable design and a 40-hour battery make it a natural travel companion.",
+    "features": [
+      "40mm dynamic drivers",
+      "40-hour battery life",
+      "Memory foam ear cushions",
+      "Foldable, travel-friendly design",
+      "Wired + Bluetooth dual mode"
+    ],
+    "rating": 4.4,
+    "reviewCount": 88,
+    "badge": null,
+    "visual": { "icon": "Headphones", "theme": "navy" },
+    "variants": [
+      { "id": "var-4a", "sku": "UA-EAR-BASS-BLK", "color": "Matte Black", "colorHex": "#111827", "price": 1899, "stock": 34 },
+      { "id": "var-4b", "sku": "UA-EAR-BASS-BLU", "color": "Steel Blue", "colorHex": "#1E2F5C", "price": 1899, "stock": 20 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-turbo-33w-charger",
+    "slug": "turbo-33w-fast-charger",
+    "name": "Turbo 33W Fast Charger",
+    "subcategoryId": "sub-chargers",
+    "subcategorySlug": "chargers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "0–60% in around 30 minutes on supported phones.",
+    "description": "Compact and pocketable, the Turbo 33W charger uses GaN technology to deliver fast, safe charging to phones, buds and tablets. Built-in surge protection keeps every device safe over the long run.",
+    "features": [
+      "33W PD + QC fast charging",
+      "Compact GaN design",
+      "Over-current and surge protection",
+      "Compatible with USB-C laptops and tablets",
+      "Cable sold separately"
+    ],
+    "rating": 4.6,
+    "reviewCount": 176,
+    "badge": "Bestseller",
+    "visual": { "icon": "Plug", "theme": "teal" },
+    "variants": [
+      { "id": "var-5a", "sku": "UA-CHG-T33-WHT", "color": "White", "colorHex": "#F9FAFB", "price": 799, "compareAtPrice": 999, "stock": 90 },
+      { "id": "var-5b", "sku": "UA-CHG-T33-BLK", "color": "Black", "colorHex": "#111827", "price": 799, "compareAtPrice": 999, "stock": 66 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": [
+      { "id": "rev-5a", "author": "Karan D.", "rating": 5, "title": "Tiny but powerful", "comment": "Charges my phone almost as fast as the original brick, and it's half the size.", "date": "2026-05-04", "verified": false }
+    ]
+  },
+  {
+    "id": "prod-gan-65w-charger",
+    "slug": "dual-port-65w-gan-charger",
+    "name": "Dual-Port 65W GaN Charger",
+    "subcategoryId": "sub-chargers",
+    "subcategorySlug": "chargers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Charge a laptop and a phone at the same time.",
+    "description": "65W of shared power across two USB-C ports means you can top up a laptop and a phone simultaneously, without carrying two chargers. Foldable pins make it travel-ready.",
+    "features": [
+      "65W total shared output",
+      "Dual USB-C ports",
+      "Foldable travel plug",
+      "Smart power distribution",
+      "Compact GaN III design"
+    ],
+    "rating": 4.5,
+    "reviewCount": 52,
+    "badge": "New",
+    "visual": { "icon": "Plug", "theme": "slate" },
+    "variants": [
+      { "id": "var-6a", "sku": "UA-CHG-G65-BLK", "color": "Black", "colorHex": "#111827", "price": 1499, "stock": 40 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-usbc-cable",
+    "slug": "braided-usb-c-cable-1m",
+    "name": "Braided USB-C to USB-C Cable (1m)",
+    "subcategoryId": "sub-cables",
+    "subcategorySlug": "cables",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Nylon-braided cable rated for 10,000+ bends.",
+    "description": "A tangle-resistant nylon braid over a reinforced core makes this cable built to last. Supports 60W fast charging and full-speed data sync.",
+    "features": [
+      "60W PD fast charging support",
+      "Nylon braided, tangle-free",
+      "10,000+ bend lifecycle tested",
+      "480Mbps data sync",
+      "1 metre length"
+    ],
+    "rating": 4.5,
+    "reviewCount": 129,
+    "badge": null,
+    "visual": { "icon": "Cable", "theme": "orange" },
+    "variants": [
+      { "id": "var-7a", "sku": "UA-CBL-CC1M-BLK", "color": "Black", "colorHex": "#111827", "price": 349, "stock": 120 },
+      { "id": "var-7b", "sku": "UA-CBL-CC1M-ORG", "color": "Sunset Orange", "colorHex": "#F2760F", "price": 349, "stock": 75 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-lightning-cable",
+    "slug": "lightning-braided-cable-1m",
+    "name": "Braided Lightning Cable (1m)",
+    "subcategoryId": "sub-cables",
+    "subcategorySlug": "cables",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "MFi-style durability for daily charging.",
+    "description": "A reinforced Lightning cable built with a woven nylon jacket to resist fraying at the connector, the most common failure point. Supports fast charging with compatible adapters.",
+    "features": [
+      "Reinforced connector housing",
+      "Nylon braided jacket",
+      "Fast charging support",
+      "1 metre length",
+      "Compatible with Lightning-port iPhones"
+    ],
+    "rating": 4.3,
+    "reviewCount": 64,
+    "badge": null,
+    "visual": { "icon": "Cable", "theme": "navy" },
+    "variants": [
+      { "id": "var-8a", "sku": "UA-CBL-LT1M-WHT", "color": "White", "colorHex": "#F9FAFB", "price": 399, "stock": 88 }
+    ],
+    "compatibleDeviceModelIds": ["dm-iphone-15-pro", "dm-iphone-15", "dm-iphone-14"],
+    "reviews": []
+  },
+  {
+    "id": "prod-slim-powerbank",
+    "slug": "slimline-10000mah-power-bank",
+    "name": "Slimline 10,000mAh Power Bank",
+    "subcategoryId": "sub-powerbanks",
+    "subcategorySlug": "power-banks",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Credit-card slim, pocket-ready backup power.",
+    "description": "At just 14mm thick, the Slimline power bank slips into any bag or pocket while still holding a full charge for most phones. Dual outputs let you charge two devices at once.",
+    "features": [
+      "10,000mAh capacity",
+      "18W fast charging output",
+      "Dual USB-A + USB-C ports",
+      "14mm ultra-slim body",
+      "USB-C input for fast recharge"
+    ],
+    "rating": 4.6,
+    "reviewCount": 152,
+    "badge": "Bestseller",
+    "visual": { "icon": "BatteryCharging", "theme": "teal" },
+    "variants": [
+      { "id": "var-9a", "sku": "UA-PWB-SL10-BLK", "color": "Black", "colorHex": "#111827", "price": 1299, "compareAtPrice": 1599, "stock": 70 },
+      { "id": "var-9b", "sku": "UA-PWB-SL10-GRY", "color": "Graphite", "colorHex": "#4B5563", "price": 1299, "compareAtPrice": 1599, "stock": 41 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": [
+      { "id": "rev-9a", "author": "Divya R.", "rating": 5, "title": "Perfect travel companion", "comment": "So thin it barely adds anything to my bag, but it fully charges my phone once with some left over.", "date": "2026-04-22", "verified": false }
+    ]
+  },
+  {
+    "id": "prod-rugged-powerbank",
+    "slug": "rugged-20000mah-power-bank",
+    "name": "Rugged 20,000mAh Power Bank",
+    "subcategoryId": "sub-powerbanks",
+    "subcategorySlug": "power-banks",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "High capacity with a shockproof outdoor build.",
+    "description": "Built for road trips and outdoor days, this rugged power bank packs 20,000mAh with a reinforced shell that shrugs off drops and dust. A built-in flashlight helps in a pinch.",
+    "features": [
+      "20,000mAh high capacity",
+      "Shockproof, dust-resistant shell",
+      "Triple output ports",
+      "Built-in LED flashlight",
+      "Charges most phones 4–5 times"
+    ],
+    "rating": 4.4,
+    "reviewCount": 47,
+    "badge": "Sale",
+    "visual": { "icon": "BatteryCharging", "theme": "slate" },
+    "variants": [
+      { "id": "var-10a", "sku": "UA-PWB-RG20-BLK", "color": "Black", "colorHex": "#111827", "price": 1799, "compareAtPrice": 2299, "stock": 25 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-i15-glass",
+    "slug": "iphone-15-tempered-glass",
+    "name": "Edge-to-Edge Tempered Glass for iPhone 15",
+    "subcategoryId": "sub-screenprotectors",
+    "subcategorySlug": "screen-protectors",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "9H hardness glass with an oleophobic coating.",
+    "description": "Precision-cut to the exact curve of the iPhone 15 display, this glass protector goes on bubble-free with the included alignment tray. An oleophobic coating resists fingerprints and smudges.",
+    "features": [
+      "9H hardness rating",
+      "Case-friendly edge design",
+      "Bubble-free install tray included",
+      "Oleophobic, anti-fingerprint coating",
+      "Pack of 2"
+    ],
+    "rating": 4.5,
+    "reviewCount": 203,
+    "badge": null,
+    "visual": { "icon": "Layers", "theme": "navy" },
+    "variants": [
+      { "id": "var-11a", "sku": "UA-SCR-I15-CLR", "color": "Clear", "colorHex": "#E5E7EB", "price": 399, "stock": 140 }
+    ],
+    "compatibleDeviceModelIds": ["dm-iphone-15"],
+    "reviews": []
+  },
+  {
+    "id": "prod-s24-privacy-glass",
+    "slug": "galaxy-s24-privacy-glass",
+    "name": "Privacy Tempered Glass for Galaxy S24 Ultra",
+    "subcategoryId": "sub-screenprotectors",
+    "subcategorySlug": "screen-protectors",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Keep your screen private from side angles.",
+    "description": "A privacy filter built into 9H tempered glass blacks out your screen for anyone viewing from the side, while staying perfectly clear head-on. Fingerprint sensor compatible.",
+    "features": [
+      "Anti-peep privacy filter",
+      "9H hardness rating",
+      "In-display fingerprint compatible",
+      "Bubble-free install tray included",
+      "Precision laser-cut fit"
+    ],
+    "rating": 4.2,
+    "reviewCount": 38,
+    "badge": "New",
+    "visual": { "icon": "Layers", "theme": "plum" },
+    "variants": [
+      { "id": "var-12a", "sku": "UA-SCR-S24U-PRV", "color": "Clear", "colorHex": "#E5E7EB", "price": 549, "stock": 58 }
+    ],
+    "compatibleDeviceModelIds": ["dm-s24-ultra"],
+    "reviews": []
+  },
+  {
+    "id": "prod-magnetic-dash-mount",
+    "slug": "magnetic-dashboard-car-mount",
+    "name": "Magnetic Dashboard Car Mount",
+    "subcategoryId": "sub-carmounts",
+    "subcategorySlug": "car-mounts",
+    "categorySlug": "car-accessories",
+    "shortDescription": "One-hand mount and release, fits any dashboard.",
+    "description": "A strong N52 magnet array holds your phone steady over bumps, while a flexible gooseneck lets you angle the screen exactly where you need it. Universal fit for any car and any phone.",
+    "features": [
+      "N52 magnetic mount, case-friendly",
+      "360° adjustable gooseneck",
+      "Universal fit — any car, any phone",
+      "Includes 4 metal plates",
+      "Reusable adhesive base"
+    ],
+    "rating": 4.6,
+    "reviewCount": 187,
+    "badge": "Bestseller",
+    "visual": { "icon": "Smartphone", "theme": "orange" },
+    "variants": [
+      { "id": "var-13a", "sku": "UA-MNT-MAG-BLK", "color": "Black", "colorHex": "#111827", "price": 799, "compareAtPrice": 999, "stock": 64 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": [
+      { "id": "rev-13a", "author": "Sanjay V.", "rating": 5, "title": "Rock solid on bad roads", "comment": "Been using this for 3 months on Pune's roads, phone hasn't budged once.", "date": "2026-06-01", "verified": false }
+    ]
+  },
+  {
+    "id": "prod-vent-clip-mount",
+    "slug": "vent-clip-phone-mount",
+    "name": "AC Vent Clip Phone Mount",
+    "subcategoryId": "sub-carmounts",
+    "subcategorySlug": "car-mounts",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Clips onto any AC vent in seconds.",
+    "description": "A spring-loaded claw grip clips securely onto your AC vent and holds phones of any size, from compact phones to large phablets in a case.",
+    "features": [
+      "Fits AC vents up to 8mm thick",
+      "One-hand spring release",
+      "Holds phones 4.7\" to 7.2\"",
+      "360° rotation",
+      "Universal fit"
+    ],
+    "rating": 4.1,
+    "reviewCount": 74,
+    "badge": null,
+    "visual": { "icon": "Smartphone", "theme": "teal" },
+    "variants": [
+      { "id": "var-14a", "sku": "UA-MNT-VNT-BLK", "color": "Black", "colorHex": "#111827", "price": 499, "stock": 95 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-creta-dash-mount",
+    "slug": "creta-custom-fit-dash-mount",
+    "name": "Custom-Fit Dash Mount for Hyundai Creta",
+    "subcategoryId": "sub-carmounts",
+    "subcategorySlug": "car-mounts",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Purpose-built to the Creta's dashboard contour, no adhesive needed.",
+    "description": "Molded specifically to the Hyundai Creta's dashboard trim, this mount slots into place without any adhesive or drilling, and holds your phone at the perfect driving angle.",
+    "features": [
+      "Vehicle-specific molded fit",
+      "No adhesive or drilling required",
+      "Tool-free installation",
+      "Adjustable phone cradle",
+      "Fits Creta (2020–2024) trims"
+    ],
+    "rating": 4.7,
+    "reviewCount": 29,
+    "badge": "New",
+    "visual": { "icon": "Smartphone", "theme": "navy" },
+    "variants": [
+      { "id": "var-15a", "sku": "UA-MNT-CRT-BLK", "color": "Black", "colorHex": "#111827", "price": 1199, "stock": 22 }
+    ],
+    "compatibleDeviceModelIds": ["dm-creta"],
+    "reviews": []
+  },
+  {
+    "id": "prod-dual-usb-car-charger",
+    "slug": "dual-usb-car-fast-charger",
+    "name": "Dual-Port Car Fast Charger",
+    "subcategoryId": "sub-carchargers",
+    "subcategorySlug": "car-chargers",
+    "categorySlug": "car-accessories",
+    "shortDescription": "38W of fast charging from your 12V socket.",
+    "description": "A compact charger that fits flush in your car's 12V socket, delivering 38W across two ports so driver and passenger can charge together.",
+    "features": [
+      "38W total PD + QC output",
+      "Dual USB-C and USB-A ports",
+      "LED indicator ring",
+      "Compact, flush-fit design",
+      "Overheat protection"
+    ],
+    "rating": 4.5,
+    "reviewCount": 112,
+    "badge": "Bestseller",
+    "visual": { "icon": "Zap", "theme": "orange" },
+    "variants": [
+      { "id": "var-16a", "sku": "UA-CCH-D38-BLK", "color": "Black", "colorHex": "#111827", "price": 599, "compareAtPrice": 799, "stock": 80 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-wireless-car-charger-mount",
+    "slug": "wireless-car-charger-mount",
+    "name": "Wireless Charging Car Mount",
+    "subcategoryId": "sub-carchargers",
+    "subcategorySlug": "car-chargers",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Mount and charge wirelessly in one motion.",
+    "description": "Auto-clamping arms sense your phone and close around it, while a 15W wireless coil starts charging instantly. Vent and dashboard mounting options are both included.",
+    "features": [
+      "15W wireless fast charging",
+      "Auto-clamping sensor arms",
+      "Vent + dashboard mount included",
+      "Qi-compatible with most cases under 3mm",
+      "USB-C car charger included"
+    ],
+    "rating": 4.3,
+    "reviewCount": 41,
+    "badge": "New",
+    "visual": { "icon": "Zap", "theme": "slate" },
+    "variants": [
+      { "id": "var-17a", "sku": "UA-CCH-WL15-BLK", "color": "Black", "colorHex": "#111827", "price": 1699, "stock": 30 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-fullhd-dashcam",
+    "slug": "full-hd-dash-cam",
+    "name": "ClearDrive Full HD Dash Cam",
+    "subcategoryId": "sub-dashcams",
+    "subcategorySlug": "dash-cams",
+    "categorySlug": "car-accessories",
+    "shortDescription": "1080p recording with loop capture and night mode.",
+    "description": "ClearDrive records crisp 1080p footage on a loop, automatically saving clips when it detects an impact. Enhanced night vision keeps footage clear after dark.",
+    "features": [
+      "1080p Full HD recording",
+      "Loop recording with impact detection",
+      "Enhanced night vision",
+      "Wide 140° viewing angle",
+      "Suction mount, fits any windshield"
+    ],
+    "rating": 4.5,
+    "reviewCount": 96,
+    "badge": "Bestseller",
+    "visual": { "icon": "Video", "theme": "navy" },
+    "variants": [
+      { "id": "var-18a", "sku": "UA-CAM-FHD-BLK", "color": "Black", "colorHex": "#111827", "price": 2999, "compareAtPrice": 3499, "stock": 36 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": [
+      { "id": "rev-18a", "author": "Anita J.", "rating": 5, "title": "Caught the whole incident clearly", "comment": "Had a minor fender bender and the footage was sharp enough to settle it in minutes with insurance.", "date": "2026-03-15", "verified": false }
+    ]
+  },
+  {
+    "id": "prod-duallens-dashcam",
+    "slug": "dual-lens-dash-cam",
+    "name": "ClearDrive Dual-Lens Dash Cam",
+    "subcategoryId": "sub-dashcams",
+    "subcategorySlug": "dash-cams",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Front and rear recording in a single unit.",
+    "description": "Cover both ends of your car with front and rear cameras recording simultaneously. A 2.4-inch display lets you review footage instantly, and parking mode watches your car while you're away.",
+    "features": [
+      "Front + rear dual recording",
+      "2.4-inch review display",
+      "Parking mode with motion detection",
+      "G-sensor auto-save on impact",
+      "microSD up to 256GB supported"
+    ],
+    "rating": 4.4,
+    "reviewCount": 58,
+    "badge": "Sale",
+    "visual": { "icon": "Video", "theme": "plum" },
+    "variants": [
+      { "id": "var-19a", "sku": "UA-CAM-DL-BLK", "color": "Black", "colorHex": "#111827", "price": 4499, "compareAtPrice": 5499, "stock": 19 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-seat-organizer",
+    "slug": "premium-seat-organizer",
+    "name": "Premium Backseat Organizer",
+    "subcategoryId": "sub-interior",
+    "subcategorySlug": "interior-accessories",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Keep tablets, bottles and everyday essentials in reach.",
+    "description": "Multiple padded pockets, a tablet holder and insulated cup slots turn the back of any seat into smart, tidy storage. Durable, wipeable fabric handles daily wear.",
+    "features": [
+      "Padded tablet holder pocket",
+      "Insulated bottle/cup slots",
+      "Wipeable, water-resistant fabric",
+      "Adjustable straps fit any seat",
+      "Universal fit"
+    ],
+    "rating": 4.3,
+    "reviewCount": 67,
+    "badge": null,
+    "visual": { "icon": "Car", "theme": "teal" },
+    "variants": [
+      { "id": "var-20a", "sku": "UA-INT-ORG-BLK", "color": "Black", "colorHex": "#111827", "price": 899, "stock": 50 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-nexon-boot-mat",
+    "slug": "nexon-custom-boot-mat",
+    "name": "Custom-Fit Boot Mat for Tata Nexon",
+    "subcategoryId": "sub-interior",
+    "subcategorySlug": "interior-accessories",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Laser-measured to the Nexon's exact boot dimensions.",
+    "description": "Precision-molded to the Tata Nexon's boot floor, this all-weather mat protects against spills, mud and wear while sitting flush with no gaps.",
+    "features": [
+      "Laser-measured, vehicle-specific fit",
+      "Raised edges contain spills",
+      "All-weather, non-slip surface",
+      "Easy to lift out and hose down",
+      "Fits Nexon (2020–2024)"
+    ],
+    "rating": 4.6,
+    "reviewCount": 21,
+    "badge": "New",
+    "visual": { "icon": "Car", "theme": "orange" },
+    "variants": [
+      { "id": "var-21a", "sku": "UA-INT-NEXBOOT-BLK", "color": "Black", "colorHex": "#111827", "price": 1299, "stock": 15 }
+    ],
+    "compatibleDeviceModelIds": ["dm-nexon"],
+    "reviews": []
+  },
+  {
+    "id": "prod-bt-fm-transmitter",
+    "slug": "bluetooth-fm-transmitter",
+    "name": "Bluetooth FM Transmitter & Car Charger",
+    "subcategoryId": "sub-caraudio",
+    "subcategorySlug": "car-audio",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Stream music and charge your phone from any car's 12V socket.",
+    "description": "Bring Bluetooth audio and hands-free calling to any car radio built before smartphones existed. Plug into the 12V socket, pair your phone, and tune your radio to the built-in FM frequency.",
+    "features": [
+      "Bluetooth 5.0 audio streaming",
+      "Hands-free calling with mic",
+      "Dual USB fast-charging ports",
+      "Bright display shows track info",
+      "Fits any 12V socket"
+    ],
+    "rating": 4.4,
+    "reviewCount": 143,
+    "badge": "Bestseller",
+    "visual": { "icon": "Music2", "theme": "navy" },
+    "variants": [
+      { "id": "var-22a", "sku": "UA-AUD-FMBT-BLK", "color": "Black", "colorHex": "#111827", "price": 999, "compareAtPrice": 1299, "stock": 58 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": [
+      { "id": "rev-22a", "author": "Farhan K.", "rating": 4, "title": "Old car, new tricks", "comment": "My 2012 sedan finally has Bluetooth audio. Setup took two minutes, sound is clear with minimal static.", "date": "2026-02-10", "verified": false }
+    ]
+  },
+  {
+    "id": "prod-dual-speaker-bt-kit",
+    "slug": "dual-speaker-bluetooth-car-kit",
+    "name": "Dual-Speaker Bluetooth Car Kit",
+    "subcategoryId": "sub-caraudio",
+    "subcategorySlug": "car-audio",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Clip-on speakers for richer sound than a single transmitter.",
+    "description": "Two compact speakers clip to your sun visors and pair over Bluetooth, delivering fuller sound and clearer calls than a single-point FM transmitter, with no wiring into the dashboard.",
+    "features": [
+      "Dual visor-clip speakers",
+      "Bluetooth 5.0 pairing",
+      "Built-in mic for hands-free calls",
+      "10-hour rechargeable battery",
+      "No wiring or installation needed"
+    ],
+    "rating": 4.2,
+    "reviewCount": 33,
+    "badge": null,
+    "visual": { "icon": "Music2", "theme": "plum" },
+    "variants": [
+      { "id": "var-23a", "sku": "UA-AUD-DUAL-BLK", "color": "Black", "colorHex": "#111827", "price": 1799, "stock": 24 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-oneplus12-cover",
+    "slug": "oneplus-12-rugged-armor-cover",
+    "name": "Rugged Armor Cover for OnePlus 12",
+    "subcategoryId": "sub-covers",
+    "subcategorySlug": "phone-covers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Textured grip and reinforced corners for daily carry.",
+    "description": "A dual-layer build pairs a rigid inner shell with a textured, grippy outer layer, so the OnePlus 12 stays secure in hand and protected at the corners where drops hit hardest.",
+    "features": [
+      "Dual-layer shock-absorbing build",
+      "Textured, slip-resistant grip",
+      "Reinforced corner protection",
+      "Raised camera bezel",
+      "Wireless charging compatible"
+    ],
+    "rating": 4.4,
+    "reviewCount": 41,
+    "badge": null,
+    "visual": { "icon": "ShieldCheck", "theme": "teal" },
+    "variants": [
+      { "id": "var-24a", "sku": "UA-COV-OP12-BLK", "color": "Black", "colorHex": "#111827", "price": 649, "stock": 38 },
+      { "id": "var-24b", "sku": "UA-COV-OP12-GRY", "color": "Graphite", "colorHex": "#4B5563", "price": 649, "stock": 22 }
+    ],
+    "compatibleDeviceModelIds": ["dm-oneplus-12"],
+    "reviews": []
+  },
+  {
+    "id": "prod-pixel8-cover",
+    "slug": "pixel-8-slim-silicone-cover",
+    "name": "Slim Silicone Cover for Pixel 8",
+    "subcategoryId": "sub-covers",
+    "subcategorySlug": "phone-covers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Soft-touch silicone with a microfibre lining.",
+    "description": "A liquid-silicone exterior feels soft against the hand while a microfibre lining keeps the inside scratch-free. Slim enough to keep the Pixel 8's design intact.",
+    "features": [
+      "Liquid silicone exterior",
+      "Microfibre-lined interior",
+      "Slim, minimal-bulk profile",
+      "Precise button and port cutouts",
+      "Wireless charging compatible"
+    ],
+    "rating": 4.3,
+    "reviewCount": 27,
+    "badge": "New",
+    "visual": { "icon": "ShieldCheck", "theme": "orange" },
+    "variants": [
+      { "id": "var-25a", "sku": "UA-COV-PX8-GRN", "color": "Sage Green", "colorHex": "#6B7F5E", "price": 599, "stock": 30 },
+      { "id": "var-25b", "sku": "UA-COV-PX8-BLK", "color": "Black", "colorHex": "#111827", "price": 599, "stock": 26 }
+    ],
+    "compatibleDeviceModelIds": ["dm-pixel-8"],
+    "reviews": []
+  },
+  {
+    "id": "prod-echobuds-lite",
+    "slug": "echobuds-lite-wireless-earbuds",
+    "name": "EchoBuds Lite Wireless Earbuds",
+    "subcategoryId": "sub-earphones",
+    "subcategorySlug": "earphones",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Everyday true wireless earbuds at an easy price.",
+    "description": "EchoBuds Lite covers the essentials well: clear calls, punchy sound and a pocket-sized case, without paying for features you won't use.",
+    "features": [
+      "20-hour total battery with case",
+      "IPX4 splash resistant",
+      "Touch controls",
+      "Automatic pairing on case open",
+      "Bluetooth 5.2"
+    ],
+    "rating": 4.1,
+    "reviewCount": 118,
+    "badge": null,
+    "visual": { "icon": "Headphones", "theme": "slate" },
+    "variants": [
+      { "id": "var-26a", "sku": "UA-EAR-ECHOL-BLK", "color": "Black", "colorHex": "#111827", "price": 1199, "compareAtPrice": 1499, "stock": 72 },
+      { "id": "var-26b", "sku": "UA-EAR-ECHOL-WHT", "color": "White", "colorHex": "#F9FAFB", "price": 1199, "compareAtPrice": 1499, "stock": 58 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-studiomax-anc",
+    "slug": "studiomax-anc-headphones",
+    "name": "StudioMax ANC Headphones",
+    "subcategoryId": "sub-earphones",
+    "subcategorySlug": "earphones",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Studio-tuned sound with adaptive noise cancellation.",
+    "description": "StudioMax pairs adaptive ANC with a neutral, studio-leaning sound signature and 50-hour battery life, built for people who wear headphones most of the day.",
+    "features": [
+      "Adaptive active noise cancellation",
+      "50-hour battery, ANC on",
+      "Studio-tuned 40mm drivers",
+      "Multi-point Bluetooth pairing",
+      "Folds flat for storage"
+    ],
+    "rating": 4.6,
+    "reviewCount": 62,
+    "badge": "Bestseller",
+    "visual": { "icon": "Headphones", "theme": "plum" },
+    "variants": [
+      { "id": "var-27a", "sku": "UA-EAR-STDMX-BLK", "color": "Black", "colorHex": "#111827", "price": 3499, "compareAtPrice": 4299, "stock": 26 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-compact-20w-charger",
+    "slug": "compact-20w-pd-charger",
+    "name": "Compact 20W PD Charger",
+    "subcategoryId": "sub-chargers",
+    "subcategorySlug": "chargers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "A no-fuss single-port charger that fits any bag pocket.",
+    "description": "For anyone who just needs a reliable fast charger without extra ports or bulk, this 20W PD adapter charges a phone quickly and takes up almost no space.",
+    "features": [
+      "20W USB-C Power Delivery",
+      "Single-port, ultra-compact",
+      "Charges most phones 0–50% in ~30 min",
+      "Built-in surge protection",
+      "Cable sold separately"
+    ],
+    "rating": 4.3,
+    "reviewCount": 84,
+    "badge": null,
+    "visual": { "icon": "Plug", "theme": "navy" },
+    "variants": [
+      { "id": "var-28a", "sku": "UA-CHG-C20-WHT", "color": "White", "colorHex": "#F9FAFB", "price": 449, "stock": 110 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-4port-desktop-charger",
+    "slug": "4-port-desktop-charging-station",
+    "name": "4-Port Desktop Charging Station",
+    "subcategoryId": "sub-chargers",
+    "subcategorySlug": "chargers",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Charge the whole household from one outlet.",
+    "description": "Four independent ports with smart current allocation mean everyone's phone, tablet or earbuds case charges at its best possible speed, all from a single desktop station.",
+    "features": [
+      "4 independent smart-charging ports",
+      "Total 50W shared output",
+      "Compact desktop stand design",
+      "Overcurrent and overheat protection",
+      "Long 1.5m power cable"
+    ],
+    "rating": 4.4,
+    "reviewCount": 39,
+    "badge": null,
+    "visual": { "icon": "Plug", "theme": "orange" },
+    "variants": [
+      { "id": "var-29a", "sku": "UA-CHG-4PD-BLK", "color": "Black", "colorHex": "#111827", "price": 1299, "stock": 33 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-usbc-lightning-cable",
+    "slug": "braided-usbc-to-lightning-cable-1m",
+    "name": "Braided USB-C to Lightning Cable (1m)",
+    "subcategoryId": "sub-cables",
+    "subcategorySlug": "cables",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Fast-charge your iPhone from any USB-C charger.",
+    "description": "Pairs any USB-C fast charger with Lightning-port iPhones, so you can use the same charger for your phone, laptop and earbuds case. Nylon braided for durability.",
+    "features": [
+      "USB-C to Lightning, MFi-style durability",
+      "Fast charging with USB-C PD chargers",
+      "Nylon braided jacket",
+      "1 metre length",
+      "Compatible with Lightning-port iPhones"
+    ],
+    "rating": 4.4,
+    "reviewCount": 57,
+    "badge": null,
+    "visual": { "icon": "Cable", "theme": "slate" },
+    "variants": [
+      { "id": "var-30a", "sku": "UA-CBL-CL1M-WHT", "color": "White", "colorHex": "#F9FAFB", "price": 449, "stock": 64 }
+    ],
+    "compatibleDeviceModelIds": ["dm-iphone-15-pro", "dm-iphone-15", "dm-iphone-14", "dm-iphone-13"],
+    "reviews": []
+  },
+  {
+    "id": "prod-3in1-retractable-cable",
+    "slug": "3-in-1-retractable-charging-cable",
+    "name": "3-in-1 Retractable Charging Cable",
+    "subcategoryId": "sub-cables",
+    "subcategorySlug": "cables",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "One cable, three connectors, zero tangles.",
+    "description": "A retracting reel houses USB-C, Lightning and Micro-USB connectors in one cable, so a single travel pouch covers every device in the family.",
+    "features": [
+      "USB-C, Lightning and Micro-USB in one",
+      "Retractable, tangle-free reel",
+      "1.2m extended length",
+      "Supports fast charging",
+      "Compact for travel"
+    ],
+    "rating": 4.0,
+    "reviewCount": 45,
+    "badge": null,
+    "visual": { "icon": "Cable", "theme": "teal" },
+    "variants": [
+      { "id": "var-31a", "sku": "UA-CBL-3IN1-BLK", "color": "Black", "colorHex": "#111827", "price": 499, "stock": 70 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-wireless-powerbank-5000",
+    "slug": "wireless-power-bank-5000mah",
+    "name": "Wireless Power Bank 5,000mAh",
+    "subcategoryId": "sub-powerbanks",
+    "subcategorySlug": "power-banks",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Snaps on magnetically and charges without a cable.",
+    "description": "A magnetic array aligns and holds this power bank to the back of compatible phones, delivering wireless charging on the go with no cable to carry.",
+    "features": [
+      "Magnetic alignment and hold",
+      "7.5W wireless output",
+      "USB-C input and pass-through output",
+      "Slim enough to stay pocketable",
+      "Works best with iPhone 12 and later"
+    ],
+    "rating": 4.2,
+    "reviewCount": 36,
+    "badge": "New",
+    "visual": { "icon": "BatteryCharging", "theme": "navy" },
+    "variants": [
+      { "id": "var-32a", "sku": "UA-PWB-WL5-WHT", "color": "White", "colorHex": "#F9FAFB", "price": 1599, "stock": 28 }
+    ],
+    "compatibleDeviceModelIds": ["dm-iphone-15-pro", "dm-iphone-15", "dm-iphone-14"],
+    "reviews": []
+  },
+  {
+    "id": "prod-solar-powerbank-25000",
+    "slug": "solar-power-bank-25000mah",
+    "name": "Solar 25,000mAh Power Bank",
+    "subcategoryId": "sub-powerbanks",
+    "subcategorySlug": "power-banks",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Huge capacity with a solar panel for backup trickle charging.",
+    "description": "Built for treks and long outdoor days, this power bank holds enough charge for a phone all week and tops itself up slowly via its built-in solar panel when you're off-grid.",
+    "features": [
+      "25,000mAh high capacity",
+      "Built-in solar trickle-charging panel",
+      "Rugged, dust and splash resistant shell",
+      "Quad output ports",
+      "Built-in LED camping light"
+    ],
+    "rating": 4.3,
+    "reviewCount": 22,
+    "badge": null,
+    "visual": { "icon": "BatteryCharging", "theme": "orange" },
+    "variants": [
+      { "id": "var-33a", "sku": "UA-PWB-SOL25-BLK", "color": "Black", "colorHex": "#111827", "price": 2199, "stock": 19 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-oneplus12-glass",
+    "slug": "oneplus-12-tempered-glass",
+    "name": "Edge-to-Edge Tempered Glass for OnePlus 12",
+    "subcategoryId": "sub-screenprotectors",
+    "subcategorySlug": "screen-protectors",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "Full-coverage 9H glass for the OnePlus 12's curved display.",
+    "description": "Shaped to match the OnePlus 12's display curve, this glass protector covers edge to edge without lifting, and includes an alignment tray for a bubble-free install.",
+    "features": [
+      "9H hardness rating",
+      "Curved edge-to-edge coverage",
+      "Bubble-free install tray included",
+      "Oleophobic, anti-fingerprint coating",
+      "Pack of 2"
+    ],
+    "rating": 4.3,
+    "reviewCount": 31,
+    "badge": null,
+    "visual": { "icon": "Layers", "theme": "slate" },
+    "variants": [
+      { "id": "var-34a", "sku": "UA-SCR-OP12-CLR", "color": "Clear", "colorHex": "#E5E7EB", "price": 449, "stock": 66 }
+    ],
+    "compatibleDeviceModelIds": ["dm-oneplus-12"],
+    "reviews": []
+  },
+  {
+    "id": "prod-pixel8-glass",
+    "slug": "pixel-8-tempered-glass",
+    "name": "Tempered Glass for Pixel 8",
+    "subcategoryId": "sub-screenprotectors",
+    "subcategorySlug": "screen-protectors",
+    "categorySlug": "mobile-accessories",
+    "shortDescription": "9H hardness, precision cut for the Pixel 8.",
+    "description": "A precision laser-cut glass protector that matches the Pixel 8's display exactly, keeping the in-display fingerprint sensor and Face Unlock fully working.",
+    "features": [
+      "9H hardness rating",
+      "In-display fingerprint sensor compatible",
+      "Bubble-free install tray included",
+      "Oleophobic, anti-fingerprint coating",
+      "Pack of 2"
+    ],
+    "rating": 4.2,
+    "reviewCount": 18,
+    "badge": "New",
+    "visual": { "icon": "Layers", "theme": "teal" },
+    "variants": [
+      { "id": "var-35a", "sku": "UA-SCR-PX8-CLR", "color": "Clear", "colorHex": "#E5E7EB", "price": 399, "stock": 50 }
+    ],
+    "compatibleDeviceModelIds": ["dm-pixel-8"],
+    "reviews": []
+  },
+  {
+    "id": "prod-xuv700-dash-mount",
+    "slug": "xuv700-custom-fit-dash-mount",
+    "name": "Custom-Fit Dash Mount for Mahindra XUV700",
+    "subcategoryId": "sub-carmounts",
+    "subcategorySlug": "car-mounts",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Molded to the XUV700's dashboard trim, no adhesive needed.",
+    "description": "Shaped specifically for the Mahindra XUV700's dashboard contour, this mount clips into place without adhesive or drilling and holds your phone at a natural driving angle.",
+    "features": [
+      "Vehicle-specific molded fit",
+      "No adhesive or drilling required",
+      "Tool-free installation",
+      "Adjustable phone cradle",
+      "Fits XUV700 (2021–2024)"
+    ],
+    "rating": 4.5,
+    "reviewCount": 14,
+    "badge": "New",
+    "visual": { "icon": "Smartphone", "theme": "plum" },
+    "variants": [
+      { "id": "var-36a", "sku": "UA-MNT-XUV7-BLK", "color": "Black", "colorHex": "#111827", "price": 1199, "stock": 17 }
+    ],
+    "compatibleDeviceModelIds": ["dm-xuv700"],
+    "reviews": []
+  },
+  {
+    "id": "prod-gravity-vent-mount",
+    "slug": "wireless-gravity-air-vent-mount",
+    "name": "Wireless Charging Gravity Vent Mount",
+    "subcategoryId": "sub-carmounts",
+    "subcategorySlug": "car-mounts",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Clamps shut automatically under its own weight, charges wirelessly.",
+    "description": "Gravity-actuated arms close around your phone the moment it's placed, no button needed, while a 10W wireless coil keeps it charged for the whole drive.",
+    "features": [
+      "Gravity auto-clamping arms",
+      "10W wireless fast charging",
+      "Fits any AC vent",
+      "One-hand release",
+      "Qi-compatible with most cases"
+    ],
+    "rating": 4.2,
+    "reviewCount": 48,
+    "badge": null,
+    "visual": { "icon": "Smartphone", "theme": "navy" },
+    "variants": [
+      { "id": "var-37a", "sku": "UA-MNT-GRAV-BLK", "color": "Black", "colorHex": "#111827", "price": 1099, "compareAtPrice": 1399, "stock": 41 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-65w-car-charger",
+    "slug": "65w-pd-car-charger",
+    "name": "65W PD Car Charger",
+    "subcategoryId": "sub-carchargers",
+    "subcategorySlug": "car-chargers",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Laptop-capable fast charging from your car's socket.",
+    "description": "With 65W of Power Delivery, this car charger can top up a USB-C laptop as easily as a phone, making it a single charger for every device on a road trip.",
+    "features": [
+      "65W USB-C Power Delivery",
+      "Laptop-capable output",
+      "Secondary USB-A fast-charge port",
+      "LED indicator ring",
+      "Compact, flush-fit design"
+    ],
+    "rating": 4.5,
+    "reviewCount": 29,
+    "badge": null,
+    "visual": { "icon": "Zap", "theme": "teal" },
+    "variants": [
+      { "id": "var-38a", "sku": "UA-CCH-P65-BLK", "color": "Black", "colorHex": "#111827", "price": 999, "stock": 45 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-single-port-car-charger",
+    "slug": "fast-charge-single-port-car-charger",
+    "name": "Fast Charge Single-Port Car Charger",
+    "subcategoryId": "sub-carchargers",
+    "subcategorySlug": "car-chargers",
+    "categorySlug": "car-accessories",
+    "shortDescription": "A simple, reliable charger for every car.",
+    "description": "No frills, just a dependable 20W fast charger that fits any 12V socket and keeps a phone topped up on the commute.",
+    "features": [
+      "20W PD fast charging",
+      "Single USB-C port",
+      "Compact, low-profile design",
+      "Overheat protection",
+      "Fits any 12V socket"
+    ],
+    "rating": 4.1,
+    "reviewCount": 52,
+    "badge": null,
+    "visual": { "icon": "Zap", "theme": "navy" },
+    "variants": [
+      { "id": "var-39a", "sku": "UA-CCH-S20-BLK", "color": "Black", "colorHex": "#111827", "price": 349, "stock": 88 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-mini-dashcam",
+    "slug": "compact-mini-dash-cam",
+    "name": "Compact Mini Dash Cam",
+    "subcategoryId": "sub-dashcams",
+    "subcategorySlug": "dash-cams",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Discreet, budget-friendly recording for every drive.",
+    "description": "Small enough to sit unnoticed behind your mirror, this mini dash cam still delivers clear 1080p loop recording with impact-triggered saving.",
+    "features": [
+      "1080p loop recording",
+      "Discreet, compact body",
+      "Impact-triggered auto-save",
+      "Wide 120° viewing angle",
+      "Easy suction mount install"
+    ],
+    "rating": 4.0,
+    "reviewCount": 44,
+    "badge": null,
+    "visual": { "icon": "Video", "theme": "slate" },
+    "variants": [
+      { "id": "var-40a", "sku": "UA-CAM-MINI-BLK", "color": "Black", "colorHex": "#111827", "price": 1799, "stock": 30 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-4k-dashcam-gps",
+    "slug": "4k-ultra-hd-dash-cam-with-gps",
+    "name": "4K Ultra HD Dash Cam with GPS",
+    "subcategoryId": "sub-dashcams",
+    "subcategorySlug": "dash-cams",
+    "categorySlug": "car-accessories",
+    "shortDescription": "The sharpest footage in the lineup, with route logging.",
+    "description": "4K recording captures number plates and road signs with real clarity, while built-in GPS logs your speed and route alongside the footage for complete trip records.",
+    "features": [
+      "4K Ultra HD recording",
+      "Built-in GPS route and speed logging",
+      "Enhanced night vision",
+      "Loop recording with impact detection",
+      "Wide 160° viewing angle"
+    ],
+    "rating": 4.6,
+    "reviewCount": 37,
+    "badge": "Bestseller",
+    "visual": { "icon": "Video", "theme": "orange" },
+    "variants": [
+      { "id": "var-41a", "sku": "UA-CAM-4KGPS-BLK", "color": "Black", "colorHex": "#111827", "price": 5499, "compareAtPrice": 6499, "stock": 16 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-seltos-floor-mats",
+    "slug": "seltos-custom-floor-mats",
+    "name": "Custom-Fit Floor Mats for Kia Seltos",
+    "subcategoryId": "sub-interior",
+    "subcategorySlug": "interior-accessories",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Laser-measured to the Seltos's exact floor contours.",
+    "description": "A precise, vehicle-specific fit means these mats sit flush with no gaps or curling, protecting the Seltos's floor from mud, spills and daily wear.",
+    "features": [
+      "Laser-measured, vehicle-specific fit",
+      "Raised edges contain spills",
+      "All-weather, non-slip surface",
+      "Easy to lift out and clean",
+      "Fits Seltos (2019–2024)"
+    ],
+    "rating": 4.5,
+    "reviewCount": 19,
+    "badge": "New",
+    "visual": { "icon": "Car", "theme": "navy" },
+    "variants": [
+      { "id": "var-42a", "sku": "UA-INT-SELFM-BLK", "color": "Black", "colorHex": "#111827", "price": 1899, "stock": 14 }
+    ],
+    "compatibleDeviceModelIds": ["dm-seltos"],
+    "reviews": []
+  },
+  {
+    "id": "prod-steering-wheel-cover",
+    "slug": "universal-steering-wheel-cover",
+    "name": "Universal Steering Wheel Cover",
+    "subcategoryId": "sub-interior",
+    "subcategorySlug": "interior-accessories",
+    "categorySlug": "car-accessories",
+    "shortDescription": "A better grip and a refreshed interior in minutes.",
+    "description": "A textured, breathable cover slips over any standard steering wheel to improve grip and hide wear, with an easy no-tools installation.",
+    "features": [
+      "Fits 14.5–15.5 inch steering wheels",
+      "Textured, sweat-resistant grip",
+      "No-tools slip-on installation",
+      "Breathable perforated material",
+      "Universal fit"
+    ],
+    "rating": 4.0,
+    "reviewCount": 61,
+    "badge": null,
+    "visual": { "icon": "Car", "theme": "slate" },
+    "variants": [
+      { "id": "var-43a", "sku": "UA-INT-SWC-BLK", "color": "Black", "colorHex": "#111827", "price": 599, "stock": 54 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-car-bt-speaker-fm",
+    "slug": "car-bluetooth-speaker-with-fm",
+    "name": "Car Bluetooth Speaker with FM",
+    "subcategoryId": "sub-caraudio",
+    "subcategorySlug": "car-audio",
+    "categorySlug": "car-accessories",
+    "shortDescription": "A dashboard speaker that beats your phone's tiny speaker.",
+    "description": "Mounts to the dashboard or sun visor and pairs over Bluetooth, giving noticeably fuller sound and clearer hands-free calls than any phone speaker, plus a built-in FM tuner.",
+    "features": [
+      "Dashboard/visor mountable speaker",
+      "Bluetooth 5.0 with built-in FM tuner",
+      "Hands-free calling with mic",
+      "12-hour rechargeable battery",
+      "No wiring or installation needed"
+    ],
+    "rating": 4.3,
+    "reviewCount": 40,
+    "badge": null,
+    "visual": { "icon": "Music2", "theme": "teal" },
+    "variants": [
+      { "id": "var-44a", "sku": "UA-AUD-SPKFM-BLK", "color": "Black", "colorHex": "#111827", "price": 1399, "stock": 32 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  },
+  {
+    "id": "prod-dashboard-speakerphone",
+    "slug": "dashboard-mount-bluetooth-speakerphone",
+    "name": "Dashboard-Mount Bluetooth Speakerphone",
+    "subcategoryId": "sub-caraudio",
+    "subcategorySlug": "car-audio",
+    "categorySlug": "car-accessories",
+    "shortDescription": "Built around hands-free calls, not just music.",
+    "description": "Dual noise-cancelling microphones and a forward-facing speaker are tuned specifically for hands-free calls, so the other person hears you clearly over road and wind noise.",
+    "features": [
+      "Dual noise-cancelling microphones",
+      "Bluetooth 5.0 hands-free calling",
+      "Dashboard sticky mount included",
+      "15-hour talk-time battery",
+      "Voice assistant button"
+    ],
+    "rating": 4.2,
+    "reviewCount": 25,
+    "badge": null,
+    "visual": { "icon": "Music2", "theme": "slate" },
+    "variants": [
+      { "id": "var-45a", "sku": "UA-AUD-SPKPH-BLK", "color": "Black", "colorHex": "#111827", "price": 1199, "stock": 27 }
+    ],
+    "compatibleDeviceModelIds": [],
+    "reviews": []
+  }
+]

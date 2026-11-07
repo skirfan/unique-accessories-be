@@ -1,0 +1,13 @@
+[
+  { "id": "sub-covers", "categoryId": "cat-mobile", "categorySlug": "mobile-accessories", "name": "Phone Covers", "slug": "phone-covers", "description": "Slim, rugged and stylish protection for every model.", "icon": "ShieldCheck" },
+  { "id": "sub-earphones", "categoryId": "cat-mobile", "categorySlug": "mobile-accessories", "name": "Earphones & Headphones", "slug": "earphones", "description": "Wireless earbuds and headphones tuned for everyday listening.", "icon": "Headphones" },
+  { "id": "sub-chargers", "categoryId": "cat-mobile", "categorySlug": "mobile-accessories", "name": "Chargers & Adapters", "slug": "chargers", "description": "Fast-charging bricks and multi-port adapters.", "icon": "Plug" },
+  { "id": "sub-cables", "categoryId": "cat-mobile", "categorySlug": "mobile-accessories", "name": "Cables", "slug": "cables", "description": "Durable USB-C, Lightning and braided cables.", "icon": "Cable" },
+  { "id": "sub-powerbanks", "categoryId": "cat-mobile", "categorySlug": "mobile-accessories", "name": "Power Banks", "slug": "power-banks", "description": "Take extra battery wherever you go.", "icon": "BatteryCharging" },
+  { "id": "sub-screenprotectors", "categoryId": "cat-mobile", "categorySlug": "mobile-accessories", "name": "Screen Protectors", "slug": "screen-protectors", "description": "Tempered glass and film protection, precision cut.", "icon": "Layers" },
+  { "id": "sub-carmounts", "categoryId": "cat-car", "categorySlug": "car-accessories", "name": "Car Mounts & Holders", "slug": "car-mounts", "description": "Secure, adjustable mounts for hands-free driving.", "icon": "Smartphone" },
+  { "id": "sub-carchargers", "categoryId": "cat-car", "categorySlug": "car-accessories", "name": "Car Chargers", "slug": "car-chargers", "description": "Fast-charge every device on the move.", "icon": "Zap" },
+  { "id": "sub-dashcams", "categoryId": "cat-car", "categorySlug": "car-accessories", "name": "Dash Cams", "slug": "dash-cams", "description": "Record every journey in crisp detail.", "icon": "Video" },
+  { "id": "sub-interior", "categoryId": "cat-car", "categorySlug": "car-accessories", "name": "Interior Accessories", "slug": "interior-accessories", "description": "Organisers, covers and comfort upgrades.", "icon": "Car" },
+  { "id": "sub-caraudio", "categoryId": "cat-car", "categorySlug": "car-accessories", "name": "Car Audio", "slug": "car-audio", "description": "Bluetooth receivers and speakers for the road.", "icon": "Music2" }
+]

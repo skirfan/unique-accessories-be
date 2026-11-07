@@ -1,0 +1,13 @@
+[
+  { "id": "brand-apple", "name": "Apple", "type": "PHONE" },
+  { "id": "brand-samsung", "name": "Samsung", "type": "PHONE" },
+  { "id": "brand-oneplus", "name": "OnePlus", "type": "PHONE" },
+  { "id": "brand-xiaomi", "name": "Xiaomi", "type": "PHONE" },
+  { "id": "brand-google", "name": "Google", "type": "PHONE" },
+  { "id": "brand-vivo", "name": "Vivo", "type": "PHONE" },
+  { "id": "brand-maruti", "name": "Maruti Suzuki", "type": "CAR" },
+  { "id": "brand-hyundai", "name": "Hyundai", "type": "CAR" },
+  { "id": "brand-tata", "name": "Tata Motors", "type": "CAR" },
+  { "id": "brand-mahindra", "name": "Mahindra", "type": "CAR" },
+  { "id": "brand-kia", "name": "Kia", "type": "CAR" }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cat-mobile",
+    "name": "Mobile Accessories",
+    "slug": "mobile-accessories",
+    "description": "Everything for your smartphone — covers, audio, charging and protection, picked for daily use.",
+    "icon": "Smartphone"
+  },
+  {
+    "id": "cat-car",
+    "name": "Car Accessories",
+    "slug": "car-accessories",
+    "description": "Upgrade your drive with mounts, chargers, dash cams and interior essentials.",
+    "icon": "Car"
+  }
+]

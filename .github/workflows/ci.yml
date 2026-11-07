@@ -1,0 +1,60 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lint-typecheck-build:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: integration-only
+          POSTGRES_DB: unique_accessories_ci_test
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - run: pnpm lint
+
+      # Generates the Prisma Client from prisma/schema.prisma. This does not
+      # need a live database connection, so it works without a Postgres
+      # service in this job. DATABASE_URL just needs to be a syntactically
+      # valid URL for prisma.config.ts to resolve — no connection is made.
+      - run: pnpm exec prisma generate
+        env:
+          DATABASE_URL: "postgresql://user:pass@localhost:5432/db?schema=public"
+
+      - run: pnpm typecheck
+        env:
+          DATABASE_URL: "postgresql://user:pass@localhost:5432/db?schema=public"
+
+      - run: pnpm build
+        env:
+          DATABASE_URL: "postgresql://user:pass@localhost:5432/db?schema=public"
+
+      - run: pnpm test:storage
+        env:
+          DATABASE_URL: "postgresql://user:pass@localhost:5432/db?schema=public"
+
+      - run: pnpm test:integration
+        env:
+          TEST_DATABASE_URL: "postgresql://postgres:integration-only@localhost:5432/unique_accessories_ci_test"

@@ -1,0 +1,4 @@
+[
+  { "code": "WELCOME10", "type": "PERCENT", "value": 10, "minOrderValue": 999, "description": "10% off your first order" },
+  { "code": "FLAT200", "type": "FLAT", "value": 200, "minOrderValue": 1999, "description": "₹200 off orders above ₹1,999" }
+]
